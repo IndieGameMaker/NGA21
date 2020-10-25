@@ -3,6 +3,8 @@
 
 [프로젝트 리소스](https://github.com/IndieGameMaker/UnityBook)
 
+[수업 프로젝트 소스](https://github.com/IndieGameMaker/NGA_SpaceShooter)
+
 ### 프로젝트 오픈시 Layout 관련 오류 발생시 대처법
 
 1. 윈도우 탐색기에서 다음 경로로 이동
